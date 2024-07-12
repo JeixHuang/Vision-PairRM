@@ -36,7 +36,3 @@ dependencies:
   - tqdm
   - typing-extensions
   - nltk
-  - vllm
-  - times
-  - prefixes
-  
